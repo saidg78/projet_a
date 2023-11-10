@@ -1,5 +1,1 @@
-# projet_a
-Le projet a a comme but de distinguer le mouvement Yes ou le mouvement Non en utilisant Arduino33 BLE. 
-La première étape consiste a collecter les donnés pour chaque mouvement.
-La 2ème consisetera a entrainé le modèle en utilisant googleCollab et avoir un modèle de prédiction.
-La dernière étape c'est inclure le modèle dans Arduino et faire les 3 questions demandés.
+Le projet vise à développer un système de distinction entre les mouvements "Yes" et "No" en utilisant la plateforme Arduino33 BLE. La première phase du projet implique la collecte de données associées à chaque mouvement. Dans la deuxième phase, un modèle de prédiction sera élaboré en utilisant Google Colab pour l'entraînement du modèle. La dernière étape consistera à intégrer le modèle dans l'environnement Arduino, suivi de l'exécution d'une série d'analyses pour répondre aux questions posées. Ce processus méthodique permettra d'obtenir un système fonctionnel de reconnaissance de mouvements avec la plateforme Arduino33 BLE.
